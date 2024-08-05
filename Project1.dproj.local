@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/05 11:20:13.000.669,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:38:09.000.795,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:44:10.000.454,D:\Delphi\Projetos Delphi 11\Unit1.pas=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit1.pas</Transaction>
+    <Transaction>2024/08/05 11:44:10.000.454,D:\Delphi\Projetos Delphi 11\Unit1.dfm=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit1.dfm</Transaction>
+    <Transaction>2024/08/05 11:44:11.000.985,D:\Delphi\Projetos Delphi 11\Project1.dproj=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Project1.dproj</Transaction>
+    <Transaction>2024/08/05 11:55:43.013,=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit2.pas</Transaction>
+    <Transaction>2024/08/05 11:55:52.714,D:\Blog Delphi\projetos\Gerenciamento de Dependencia\DataAccessInterface.pas=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit2.pas</Transaction>
+    <Transaction>2024/08/05 11:56:22.432,=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit2.pas</Transaction>
+    <Transaction>2024/08/05 11:56:31.826,D:\Blog Delphi\projetos\Gerenciamento de Dependencia\DataAccess.pas=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit2.pas</Transaction>
+    <Transaction>2024/08/05 11:56:48.733,=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit2.pas</Transaction>
+    <Transaction>2024/08/05 11:57:07.455,D:\Blog Delphi\projetos\Gerenciamento de Dependencia\BusinessLogic.pas=D:\Blog Delphi\projetos\Gerenciamento de Dependencia\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
