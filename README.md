@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/gerenciamento-de-dependencias-em-delphi/
+  https://www.codedelphi.com/2025/04/gerenciamento-de-dependencias-em-delphi.html
